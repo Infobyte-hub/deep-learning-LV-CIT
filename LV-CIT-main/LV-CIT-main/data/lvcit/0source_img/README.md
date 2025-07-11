@@ -1,0 +1,1 @@
+Directory for source images (please remove this file when running the codes).

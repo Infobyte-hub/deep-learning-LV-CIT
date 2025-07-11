@@ -1,0 +1,1 @@
+Please get checkpoints for ML-GCN from https://github.com/megvii-research/ML-GCN?tab=readme-ov-file#download-pretrain-models, and rename them to `voc_checkpoint.pth.tar` and `coco_checkpoint.pth.tar` respectively.

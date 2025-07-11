@@ -1,0 +1,65 @@
+labels_gt,accuracy
+aeroplane|train,0.5
+bird|boat,0.3
+bird|dog,0.7
+bottle|dining table,0.4
+bottle|sheep,0.5
+cow|person,0.7
+cow|sheep,0.3
+dog|person,0.9
+dog|train,0.6
+aeroplane|bird|chair,0.0
+aeroplane|bird|motorbike,0.0
+aeroplane|bus|potted plant,0.1
+bicycle|boat|person,0.3
+bicycle|bottle|dog,0.4
+bicycle|bus|horse,0.1
+bicycle|cat|dog,0.2
+bicycle|chair|sheep,0.0
+bird|bus|cow,0.0
+bird|car|tv,0.2
+bird|dining table|train,0.0
+boat|person|potted plant,0.1
+cat|chair|horse,0.1
+cat|motorbike|person,0.5
+chair|train|tv,0.0
+dining table|person|train,0.0
+dog|sheep|sofa,0.2
+aeroplane|bicycle|dining table|person,0.0
+aeroplane|bird|cat|cow,0.0
+aeroplane|boat|bottle|chair,0.0
+aeroplane|boat|dog|sofa,0.0
+aeroplane|boat|sheep|tv,0.0
+aeroplane|bottle|cow|horse,0.0
+aeroplane|car|cat|cow,0.0
+bicycle|bird|bottle|sofa,0.0
+bicycle|bus|dining table|dog,0.0
+bicycle|bus|potted plant|train,0.0
+bicycle|car|cat|chair,0.1
+bicycle|cow|motorbike|train,0.0
+bicycle|potted plant|sheep|tv,0.0
+bird|dining table|person|sheep,0.0
+bird|dining table|potted plant|sofa,0.0
+bird|horse|motorbike|sofa,0.0
+boat|bottle|motorbike|train,0.0
+boat|bus|dining table|tv,0.0
+boat|car|dog|horse,0.0
+boat|cat|sofa|tv,0.0
+boat|cow|dog|tv,0.0
+bottle|bus|car|cat,0.0
+bottle|bus|person|tv,0.1
+bottle|horse|potted plant|tv,0.0
+bottle|motorbike|potted plant|tv,0.0
+bus|cat|chair|potted plant,0.0
+bus|cat|motorbike|sheep,0.0
+bus|cat|person|sofa,0.0
+car|dining table|horse|person,0.0
+car|dog|motorbike|potted plant,0.0
+car|horse|sheep|train,0.0
+car|motorbike|sofa|train,0.0
+cat|dining table|sheep|train,0.0
+chair|cow|dog|sofa,0.1
+chair|cow|potted plant|tv,0.0
+chair|dining table|motorbike|potted plant,0.0
+chair|person|potted plant|sofa,0.1
+cow|dining table|dog|horse,0.0

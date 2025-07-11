@@ -1,0 +1,661 @@
+filename,labels_gt,labels,pass,score
+003130,bicycle,bicycle,1,1.0
+008334,sheep,sheep,1,1.0
+001195,dog,dog,1,1.0
+004420,person,person,1,1.0
+000196,chair,chair|sofa,0,0.9
+002793,car|motorbike,car,0,0.9
+007595,person,person,1,1.0
+007366,chair,chair,1,1.0
+005069,person|train,person|train,1,1.0
+009665,horse|person,horse|person,1,1.0
+002964,dog|person,dog|person,1,1.0
+007891,person,person,1,1.0
+007967,car|person,car|person,1,1.0
+007196,tv,tv,1,1.0
+006555,horse,dog|horse,0,0.9
+008290,car,car,1,1.0
+005480,bicycle,bicycle,1,1.0
+009593,car|person,car|person,1,1.0
+006287,person|sofa,chair|person|sofa,0,0.9
+007733,cat,cat|dog,0,0.9
+000002,train,train,1,1.0
+001763,cat|dog|sofa,cat|dog,0,0.9
+009493,bicycle|person,bicycle|person,1,1.0
+002517,car,car,1,1.0
+003249,bottle|person,bottle|person,1,1.0
+002360,horse|person,horse|person,1,1.0
+003862,sofa,chair|sofa,0,0.9
+007488,train,train,1,1.0
+004056,bottle,bottle,1,1.0
+000377,chair|dining table|person,chair|dining table|person,1,1.0
+000986,cow|horse|person,cow|horse|person,1,1.0
+005994,person,chair|dining table|person,0,0.8052631578947368
+005556,person,car|chair|person|potted plant|sofa,0,0.631578947368421
+001811,potted plant,chair|potted plant|sofa|tv,0,0.7157894736842105
+001380,potted plant,potted plant,1,1.0
+003765,person,person,1,1.0
+003043,train,car|train,0,0.9
+007747,dining table|sofa|tv,chair|potted plant|sofa|tv,0,0.7157894736842105
+008367,bicycle|chair|person,bicycle|person,0,0.9
+001217,dog,dog|sofa,0,0.9
+008554,aeroplane,aeroplane,1,1.0
+002651,person,person,1,1.0
+008283,car,car,1,1.0
+001319,chair|person,chair|person,1,1.0
+002725,dog,dog,1,1.0
+005922,person|potted plant,person|potted plant,1,1.0
+005999,train,train,1,1.0
+007315,chair,chair|sofa,0,0.9
+000593,car,car,1,1.0
+005612,person,dining table|person,0,0.9
+009963,car,,0,0.9
+006974,car,car,1,1.0
+007237,bottle|dining table|person|potted plant,bottle|chair|dining table|person,0,0.8052631578947368
+004480,bicycle|person,bicycle|person,1,1.0
+007192,sofa,chair|sofa,0,0.9
+000405,person,person,1,1.0
+003393,motorbike,motorbike,1,1.0
+009467,bird,bird,1,1.0
+006343,sofa,bird,0,0.8052631578947368
+005100,person,dog|person,0,0.9
+002486,bird,bird,1,1.0
+006132,bird,bird,1,1.0
+001372,person,person,1,1.0
+000824,train,person|train,0,0.9
+005207,bird,bird,1,1.0
+006064,cat,cat,1,1.0
+003598,bird,bird,1,1.0
+004680,aeroplane,aeroplane,1,1.0
+006951,motorbike|person,motorbike|person,1,1.0
+001495,person,person,1,1.0
+005834,tv,tv,1,1.0
+009934,bird,bird,1,1.0
+004277,dog,dog,1,1.0
+006895,chair|sofa,chair|sofa,1,1.0
+009395,bird,bird,1,1.0
+008984,bird,bird,1,1.0
+003283,dog,dog,1,1.0
+001779,potted plant|sofa,potted plant|sofa,1,1.0
+001373,aeroplane,aeroplane,1,1.0
+004248,person,person,1,1.0
+003523,car,car,1,1.0
+008192,bottle|person|sheep,person|sheep,0,0.9
+005446,dog,dog,1,1.0
+000758,person|tv,person|tv,1,1.0
+001891,car|person,car|person,1,1.0
+004398,aeroplane,aeroplane,1,1.0
+008527,cow,cow,1,1.0
+002356,tv,tv,1,1.0
+007402,sheep,sheep,1,1.0
+004695,chair,sofa,0,0.8052631578947368
+004810,car|person,car|person,1,1.0
+009843,person,bird|person,0,0.9
+002638,chair|tv,chair|tv,1,1.0
+007420,person,person,1,1.0
+008214,bird,bird,1,1.0
+007251,person,person,1,1.0
+005012,cat|dog|person,dog|person,0,0.9
+004182,train,train,1,1.0
+006393,chair,chair,1,1.0
+008065,train,train,1,1.0
+008089,bottle|cat,cat,0,0.9
+008361,cat,cat,1,1.0
+009835,aeroplane,aeroplane,1,1.0
+005165,dog,cat,0,0.8052631578947368
+005578,sheep,sheep,1,1.0
+004784,aeroplane,aeroplane,1,1.0
+000267,horse,horse,1,1.0
+003109,car,car,1,1.0
+000616,horse|person,horse|person,1,1.0
+001423,person,person,1,1.0
+004918,chair|person,person|sofa,0,0.8052631578947368
+008034,motorbike|person,motorbike|person,1,1.0
+005280,train,train,1,1.0
+004700,cat,cat,1,1.0
+000841,sofa,sofa,1,1.0
+005166,car|motorbike,car,0,0.9
+004320,car,car|person,0,0.9
+007942,horse|person,horse|person,1,1.0
+003701,car|person,car|person,1,1.0
+001584,horse,horse,1,1.0
+007874,horse|person,horse|person,1,1.0
+001218,bus,bus,1,1.0
+005534,motorbike,motorbike,1,1.0
+003545,car,car,1,1.0
+003952,boat,boat|person,0,0.9
+008291,tv,person|tv,0,0.9
+008598,sheep,sheep,1,1.0
+006114,cat,cat,1,1.0
+004418,person|tv,person|sofa|tv,0,0.9
+004757,bird,bird,1,1.0
+004123,boat,boat,1,1.0
+007103,person,person,1,1.0
+002076,dog,dog,1,1.0
+006145,chair|person,chair|person|sofa,0,0.9
+008777,car,car,1,1.0
+004381,horse|person,horse|person,1,1.0
+000100,train,train,1,1.0
+005180,chair|potted plant,chair|potted plant,1,1.0
+008797,car|person,car|person,1,1.0
+001731,cat|dog|person|sofa,dog|person,0,0.8052631578947368
+002996,bird,bird,1,1.0
+009372,train,train,1,1.0
+004156,bus,bus,1,1.0
+003724,cat,cat|sofa,0,0.9
+004820,chair,chair|sofa,0,0.9
+003059,train,train,1,1.0
+004198,motorbike|person,motorbike|person,1,1.0
+006452,bottle|person|tv,bottle|person|tv,1,1.0
+006376,car|person,car|motorbike|person,0,0.9
+002892,bird,bird,1,1.0
+003266,dog,dog,1,1.0
+002195,person,chair|person,0,0.9
+005040,person,chair|person,0,0.9
+003342,motorbike,motorbike,1,1.0
+007802,dog,dog,1,1.0
+000126,dining table,chair|dining table,0,0.9
+003884,person,chair|person,0,0.9
+003962,car,car,1,1.0
+007317,bird|person,person,0,0.9
+002242,bus|car|person,bus|car|person,1,1.0
+008288,person|tv,person|tv,1,1.0
+000074,car,car,1,1.0
+009824,aeroplane,aeroplane,1,1.0
+000441,train,train,1,1.0
+009210,car,car,1,1.0
+008589,bird,bird,1,1.0
+009661,horse|person,horse|person,1,1.0
+008128,bicycle|person,bicycle|person,1,1.0
+005887,person,person,1,1.0
+004741,cow,cow,1,1.0
+008925,bottle,bottle,1,1.0
+003527,car|person,car|person,1,1.0
+000548,car,car,1,1.0
+000351,car,car,1,1.0
+001885,aeroplane,aeroplane,1,1.0
+009396,car,car,1,1.0
+000415,car,car,1,1.0
+004454,person,person,1,1.0
+002432,bird,bird,1,1.0
+009207,person,person,1,1.0
+001243,person,chair|person,0,0.9
+006331,car,car,1,1.0
+000115,bird,bird,1,1.0
+006164,boat,boat,1,1.0
+000941,sofa,sofa,1,1.0
+006770,cow,cow,1,1.0
+001996,aeroplane,aeroplane,1,1.0
+005787,motorbike,motorbike,1,1.0
+006469,car|motorbike|person,car|motorbike|person,1,1.0
+000445,horse|person,horse|person,1,1.0
+007510,bus|car,bus|car,1,1.0
+007726,person|train,person|train,1,1.0
+002998,train,train,1,1.0
+007766,horse|person,horse|person,1,1.0
+005844,chair|dining table,chair|dining table,1,1.0
+008715,car,car|person,0,0.9
+005596,chair|person,chair|person,1,1.0
+001550,car,car,1,1.0
+003217,car|person,car|person,1,1.0
+004374,boat,boat,1,1.0
+007866,car,car,1,1.0
+003836,boat,boat,1,1.0
+000959,person,person,1,1.0
+002532,car|train,car|train,1,1.0
+008431,chair|dining table,chair|dining table|potted plant,0,0.9
+009033,car,car,1,1.0
+007127,person|train,person|train,1,1.0
+006558,cat,cat|chair,0,0.9
+009563,motorbike|person,motorbike|person,1,1.0
+005745,person,person,1,1.0
+009740,car,car,1,1.0
+001425,bird,bird,1,1.0
+000028,cat,cat,1,1.0
+006964,person,person|potted plant,0,0.9
+006716,bird,bird,1,1.0
+005946,tv,person|tv,0,0.9
+009260,train,train,1,1.0
+009095,dining table|sofa,chair|dining table,0,0.8052631578947368
+008634,person,bus|person,0,0.9
+007407,bird,,0,0.9
+009139,motorbike|person,motorbike|person,1,1.0
+009948,bicycle|person,bicycle|person,1,1.0
+007610,person,person,1,1.0
+005403,bird,bird,1,1.0
+001542,cat,cat|chair|person,0,0.8052631578947368
+000928,cat,cat,1,1.0
+009267,car,car,1,1.0
+004202,dog,dog,1,1.0
+000378,horse|person,horse|person,1,1.0
+002398,horse|person,horse|person,1,1.0
+000467,motorbike|person,motorbike|person,1,1.0
+007550,motorbike,motorbike,1,1.0
+007106,potted plant,chair|potted plant,0,0.9
+005048,bicycle,bicycle,1,1.0
+007792,motorbike,motorbike|person,0,0.9
+002106,cat,cat,1,1.0
+005506,motorbike|person,motorbike|person,1,1.0
+000572,bicycle,bicycle,1,1.0
+001116,person,person,1,1.0
+006905,person,person,1,1.0
+003613,person|train,person|train,1,1.0
+000330,horse|person,horse|person,1,1.0
+000481,boat,boat,1,1.0
+005626,train,train,1,1.0
+009171,bottle|dining table|person,chair|dining table|person,0,0.8052631578947368
+008735,bicycle,bicycle,1,1.0
+005891,cat,cat,1,1.0
+005987,car,car|person,0,0.9
+007960,car,car,1,1.0
+007689,dog|person,dog|person,1,1.0
+002849,dog,dog|person,0,0.9
+000342,person,person|tv,0,0.9
+004206,bird,bird,1,1.0
+006904,person,person,1,1.0
+003504,cat,cat,1,1.0
+004059,bird,bird,1,1.0
+000071,car,car,1,1.0
+008696,train,train,1,1.0
+008754,chair|dining table|potted plant,chair|potted plant,0,0.9
+004924,bus,bus,1,1.0
+007625,dog|person,dog|person,1,1.0
+005553,motorbike|person,motorbike|person,1,1.0
+000893,bottle,bottle|tv,0,0.9
+004236,bottle,bottle,1,1.0
+007952,boat,boat,1,1.0
+007418,dog,dog,1,1.0
+008807,person,person,1,1.0
+007404,bottle|person,person|sofa,0,0.8052631578947368
+007861,car|person,car|train,0,0.8052631578947368
+002580,boat,boat,1,1.0
+006586,horse|person,horse|person,1,1.0
+000453,car|person,car,0,0.9
+000333,train,train,1,1.0
+005275,car,car,1,1.0
+006072,bottle,bottle,1,1.0
+008308,train,train,1,1.0
+000421,person|tv,person|tv,1,1.0
+003498,boat,boat,1,1.0
+004218,bird|dog,bird,0,0.9
+007209,dog,dog,1,1.0
+005927,aeroplane,aeroplane,1,1.0
+000869,person,person,1,1.0
+007307,motorbike|person,motorbike|person,1,1.0
+009847,car|person,car|person,1,1.0
+000557,bird,bird,1,1.0
+002485,dog,dog,1,1.0
+002414,sofa,sofa,1,1.0
+001301,motorbike|person,motorbike|person,1,1.0
+003323,chair|dining table|person|potted plant,chair|dining table|person|potted plant,1,1.0
+003388,bicycle|person,bicycle|person,1,1.0
+001623,car,car,1,1.0
+000529,boat,,0,0.9
+002317,bus|person,bus|person,1,1.0
+008152,car|person,boat|car|person,0,0.9
+000181,person,chair|dining table|person|sofa,0,0.7157894736842105
+004027,potted plant,potted plant,1,1.0
+005490,person,dining table|person,0,0.9
+004328,person,person,1,1.0
+003480,cat,cat,1,1.0
+007428,boat|person,person,0,0.9
+008219,person,boat|person,0,0.9
+009663,chair|sofa,chair|sofa,1,1.0
+003938,person,person,1,1.0
+008904,potted plant,potted plant,1,1.0
+009854,chair|dining table|person|potted plant,chair|dining table|person|potted plant,1,1.0
+000687,car|person,car|person,1,1.0
+005972,person,bottle|chair|dining table|person,0,0.7157894736842105
+008981,bird,bird,1,1.0
+006328,dog,dog,1,1.0
+007589,car|person,car|person,1,1.0
+000924,bus,bus|car|person,0,0.8052631578947368
+007429,car,car,1,1.0
+001278,train,train,1,1.0
+009677,bicycle|chair,bicycle|chair,1,1.0
+002304,cat,cat,1,1.0
+002777,chair,chair|dining table|potted plant|sofa,0,0.7157894736842105
+006307,chair|potted plant|sofa|tv,chair|sofa|tv,0,0.9
+004614,bird,bird,1,1.0
+007961,car|person,car|person,1,1.0
+008348,bird,bird,1,1.0
+008270,car,car,1,1.0
+006837,sheep,sheep,1,1.0
+000692,chair|dog|person|potted plant,dog|person,0,0.8052631578947368
+004883,bus,bus,1,1.0
+009912,cow,cow,1,1.0
+001081,chair|tv,chair|tv,1,1.0
+004124,potted plant,potted plant,1,1.0
+003810,car|motorbike|person,car|motorbike|person,1,1.0
+009222,chair|sofa,chair|sofa,1,1.0
+009498,bus,bus,1,1.0
+001202,dog,dog,1,1.0
+002489,sofa,chair|sofa,0,0.9
+002985,tv,tv,1,1.0
+006093,bottle|chair|person,bottle|chair|person,1,1.0
+005967,horse|person,horse|person,1,1.0
+005978,bus,bus,1,1.0
+001959,bird,bird,1,1.0
+009041,motorbike|person,motorbike|person,1,1.0
+000434,horse|person,horse|person,1,1.0
+004324,person|train,person|train,1,1.0
+007893,bird,bird,1,1.0
+005206,person,person,1,1.0
+000183,dog,dog,1,1.0
+000930,bicycle|person,bicycle|person,1,1.0
+007499,potted plant,potted plant,1,1.0
+006361,horse|person,horse|person,1,1.0
+005870,bus|person,bus|person,1,1.0
+006197,bus,bus,1,1.0
+006039,dog,dog,1,1.0
+009383,dog,dog,1,1.0
+002642,cat,cat,1,1.0
+004864,motorbike|person,motorbike|person,1,1.0
+007542,cat,cat,1,1.0
+007588,dog,dog,1,1.0
+009485,dog,dog|sofa,0,0.9
+009172,potted plant,potted plant,1,1.0
+006590,car,car,1,1.0
+006312,bicycle|person,bicycle|person,1,1.0
+002463,chair|person,chair|dining table|person,0,0.9
+008704,person,boat|person,0,0.9
+003399,bus|person,bus|person,1,1.0
+000346,bottle|person,bottle|person,1,1.0
+003402,bird,bird,1,1.0
+005776,dog,dog,1,1.0
+004489,cat,cat,1,1.0
+006752,aeroplane,aeroplane,1,1.0
+006592,aeroplane|person,aeroplane|person,1,1.0
+007145,cat,cat,1,1.0
+006303,cat|potted plant,cat|potted plant,1,1.0
+002040,car|person,car|person,1,1.0
+005105,car|person,car|person,1,1.0
+001128,cat,cat,1,1.0
+001646,boat,boat,1,1.0
+003933,dog,dog,1,1.0
+002258,tv,tv,1,1.0
+001695,tv,tv,1,1.0
+008099,boat,boat|person,0,0.9
+003361,dog,dog,1,1.0
+009741,chair|person|potted plant,chair|person|potted plant,1,1.0
+006516,sofa,chair|potted plant,0,0.7157894736842105
+004167,bus|person,bus|person,1,1.0
+006024,aeroplane|car,aeroplane|car,1,1.0
+008609,car,car,1,1.0
+000324,dog,dog,1,1.0
+009415,person,person,1,1.0
+009154,dining table,chair|dining table,0,0.9
+006053,bird,bird,1,1.0
+003950,chair,chair,1,1.0
+002380,bird,bird,1,1.0
+001318,bus,bus,1,1.0
+003226,person,person,1,1.0
+003457,train,train,1,1.0
+000940,chair|person,chair|dining table|person,0,0.9
+005392,aeroplane|person,aeroplane|person,1,1.0
+000176,sheep,sheep,1,1.0
+003423,person,dining table|person,0,0.9
+003387,car,car,1,1.0
+009610,person,person,1,1.0
+009243,car,car,1,1.0
+006785,car,car,1,1.0
+003805,dog,dog|sofa,0,0.9
+008149,dog,dog,1,1.0
+000472,bird,bird,1,1.0
+002789,car|cow|person,cow|person,0,0.9
+008428,tv,tv,1,1.0
+007580,car|person,car|person,1,1.0
+005333,car|person,car|person,1,1.0
+002806,motorbike|person,motorbike|person,1,1.0
+003275,bicycle,bicycle,1,1.0
+006057,chair|dining table,chair|dining table,1,1.0
+007248,potted plant,potted plant,1,1.0
+000413,horse|person,horse|person,1,1.0
+006378,cow|person,cow|person,1,1.0
+002429,bottle|person,bottle|person,1,1.0
+007582,person,person|sofa,0,0.9
+000086,dog,dog,1,1.0
+005926,bottle|person|potted plant,person,0,0.8052631578947368
+000341,bus|car|person,bus|car|person,1,1.0
+009688,car,car,1,1.0
+008176,dog,dog,1,1.0
+009582,dining table,bottle|chair|dining table,0,0.8052631578947368
+008787,cat,cat,1,1.0
+004213,motorbike|person,motorbike|person,1,1.0
+009311,chair|person,chair|dining table|person,0,0.9
+002390,boat,boat,1,1.0
+003052,car|person,car|person,1,1.0
+007628,person,person,1,1.0
+000975,dog,dog,1,1.0
+006581,bicycle|car,bicycle|car,1,1.0
+005474,cat,cat|chair,0,0.9
+001909,cat,cat,1,1.0
+009929,bottle,bottle,1,1.0
+000293,car|person,car|person,1,1.0
+009689,chair|tv,chair|sofa|tv,0,0.9
+007659,dog,dog,1,1.0
+007459,car,car,1,1.0
+004176,bird,bird,1,1.0
+009606,chair|dining table|potted plant,chair|dining table|potted plant,1,1.0
+002639,person,person,1,1.0
+000390,car,car,1,1.0
+005638,car|person,car|person,1,1.0
+000558,boat,boat,1,1.0
+006973,cow,cow,1,1.0
+004578,car,bus|car,0,0.9
+001613,bicycle|car,bicycle,0,0.9
+002824,person,person,1,1.0
+004503,bird,bird,1,1.0
+004413,bird,bird,1,1.0
+003934,potted plant|tv,chair|potted plant|tv,0,0.9
+005772,bird,bird,1,1.0
+004781,chair|tv,chair|tv,1,1.0
+007345,bicycle|person,bicycle|person,1,1.0
+001942,car|chair|person,car|person,0,0.9
+008781,dog,dog,1,1.0
+007399,car,car,1,1.0
+004415,bird,bird,1,1.0
+008846,cat|potted plant,cat|potted plant,1,1.0
+005232,bicycle|person,bicycle|person,1,1.0
+000386,cow|person,cow|person,1,1.0
+006539,person,person,1,1.0
+002582,person|train,person|train,1,1.0
+000092,cat,cat,1,1.0
+009775,bird,bird,1,1.0
+007894,sheep,sheep,1,1.0
+000795,train,train,1,1.0
+008993,person,person,1,1.0
+007577,person,dining table|person,0,0.9
+008684,car,car,1,1.0
+004128,chair|person,chair|person,1,1.0
+009888,tv,chair|tv,0,0.9
+007382,person|train,person|train,1,1.0
+005228,cat,cat,1,1.0
+003647,cat,cat,1,1.0
+001474,boat|person,boat|person,1,1.0
+009304,bus,bus,1,1.0
+000990,person,person,1,1.0
+001302,chair|dining table,chair|dining table|potted plant,0,0.9
+000838,bird,bird,1,1.0
+000574,sheep,sheep,1,1.0
+006082,bus|car,bus|car,1,1.0
+004858,potted plant,potted plant,1,1.0
+001599,chair,chair|sofa,0,0.9
+002936,cat,cat,1,1.0
+001132,cat,cat|sofa,0,0.9
+008129,car,car,1,1.0
+001866,dog|person,person,0,0.9
+009827,car|train,car|train,1,1.0
+003438,chair,chair,1,1.0
+009023,car|person,car|person,1,1.0
+009509,bicycle,bicycle,1,1.0
+008673,bicycle|chair,chair,0,0.9
+004684,car,car,1,1.0
+002118,car,car,1,1.0
+004161,cat,cat,1,1.0
+009216,cat|tv,cat|tv,1,1.0
+007852,train,train,1,1.0
+002857,bottle|person,bottle|person,1,1.0
+007158,cow,cow|person,0,0.9
+009462,potted plant,potted plant,1,1.0
+000008,chair,chair,1,1.0
+002227,bicycle|tv,bicycle|tv,1,1.0
+009890,motorbike|person,motorbike|person,1,1.0
+006113,bicycle|bus|car|person,bus|car|person,0,0.9
+002856,dining table|person,chair|dining table|person,0,0.9
+007598,bottle|person,person,0,0.9
+006273,dog|person,dog|person|sofa,0,0.9
+005295,chair|person,chair|person|sofa,0,0.9
+001722,person,person,1,1.0
+007548,aeroplane,aeroplane,1,1.0
+004451,potted plant,potted plant,1,1.0
+008614,sofa,chair|sofa,0,0.9
+008441,dog,dog,1,1.0
+007851,cow,cow,1,1.0
+004403,bird,bird,1,1.0
+007949,bus,bus,1,1.0
+005151,dining table|person,bottle|dining table|person,0,0.9
+006856,person,person,1,1.0
+000423,person,chair|person,0,0.9
+005323,chair|person,bottle|person,0,0.8052631578947368
+004957,horse,horse|person,0,0.9
+006701,bicycle,bicycle,1,1.0
+008528,dining table|person,dining table|person,1,1.0
+001141,boat|person|potted plant,boat|person,0,0.9
+003368,person,person,1,1.0
+000149,potted plant,potted plant,1,1.0
+009201,car|person,car|person,1,1.0
+008419,dog,dog,1,1.0
+004681,train,train,1,1.0
+004698,person,person,1,1.0
+005733,horse|person,horse|person,1,1.0
+009856,car,car,1,1.0
+009346,cat,cat,1,1.0
+007316,person,person,1,1.0
+005744,dog,dog,1,1.0
+008959,bird,bird,1,1.0
+002911,person,person,1,1.0
+004803,horse|person,horse|person,1,1.0
+005751,train,train,1,1.0
+008331,train,train,1,1.0
+009514,chair|dining table|person|potted plant,chair|dining table|person|potted plant,1,1.0
+008563,chair|tv,tv,0,0.9
+008030,car,car,1,1.0
+003894,dining table,chair|dining table,0,0.9
+008842,bird,bird,1,1.0
+000108,dog|sofa,dog|sofa,1,1.0
+004116,cat|potted plant,cat|potted plant,1,1.0
+002972,person,person,1,1.0
+006280,cat,cat,1,1.0
+003347,aeroplane,aeroplane,1,1.0
+000069,boat|person,boat|person,1,1.0
+006579,cow,cow,1,1.0
+008972,cat,cat,1,1.0
+004160,boat,boat|person,0,0.9
+008863,cow,cow,1,1.0
+001974,boat|cow|person,boat|person,0,0.9
+007665,bicycle|car,bicycle|car,1,1.0
+006915,dog|person,dog|person,1,1.0
+004311,bottle|person|potted plant,bottle|dining table|person|potted plant,0,0.9
+002758,car,car|person,0,0.9
+002331,car|horse|person,car|horse|person,1,1.0
+008508,bird,bird,1,1.0
+001939,horse,horse,1,1.0
+005279,chair,,0,0.9
+008382,bottle|dining table,bottle|chair|dining table,0,0.9
+001134,motorbike,car|motorbike,0,0.9
+003495,motorbike,car,0,0.8052631578947368
+005162,person,bird,0,0.8052631578947368
+005233,bottle|chair|dining table|person,bottle|chair|dining table|person,1,1.0
+003541,person,chair|person,0,0.9
+006186,person,person,1,1.0
+000144,bottle|dining table|person,bottle|chair|dining table|person,0,0.9
+001033,bicycle|person,bicycle|person,1,1.0
+000783,horse|person,horse|person,1,1.0
+009057,cat,cat,1,1.0
+003476,car,car,1,1.0
+007934,bird,bird,1,1.0
+001251,person,person,1,1.0
+007415,boat|person,boat|person,1,1.0
+006037,dog,dog,1,1.0
+001245,horse|person,horse|person,1,1.0
+002756,person|train,person|train,1,1.0
+000248,horse|person,horse|person,1,1.0
+005678,car|motorbike,motorbike,0,0.9
+004383,bird,bird,1,1.0
+008616,person,person,1,1.0
+008567,person,person,1,1.0
+008050,person|tv,bottle|chair|tv,0,0.7157894736842105
+002388,cat,cat,1,1.0
+004305,bus|car|motorbike|person,bus|car|motorbike|person,1,1.0
+007587,horse,horse,1,1.0
+003454,person,person,1,1.0
+003831,person,person,1,1.0
+005019,person,chair|person,0,0.9
+001139,chair,chair|dining table|potted plant,0,0.8052631578947368
+007681,bird,bird,1,1.0
+007807,car,car,1,1.0
+000290,dog,dog,1,1.0
+004621,dog,dog,1,1.0
+006573,cow,cow,1,1.0
+000364,motorbike|person,motorbike|person,1,1.0
+000084,chair|dining table,chair|dining table,1,1.0
+008378,car,car,1,1.0
+002543,car,car,1,1.0
+007604,bird,bird,1,1.0
+008240,cat,cat|chair,0,0.9
+003304,horse|person,horse|person,1,1.0
+006226,dining table|person,chair|dining table|person,0,0.9
+004467,cat,cat,1,1.0
+008071,dog|potted plant,chair|dog|potted plant,0,0.9
+002560,bottle,bottle,1,1.0
+007641,bird,bird,1,1.0
+006691,potted plant,potted plant,1,1.0
+000976,aeroplane,aeroplane,1,1.0
+003736,bottle|chair|person,bottle|chair|person,1,1.0
+004564,horse|person,horse|person,1,1.0
+002084,cat,cat,1,1.0
+002206,train,train,1,1.0
+000723,bus|person,bus|person,1,1.0
+006685,car,car,1,1.0
+004448,motorbike,motorbike,1,1.0
+009001,boat,boat,1,1.0
+009525,horse|person,horse|person,1,1.0
+005628,dining table,chair|dining table|person,0,0.8052631578947368
+008795,sheep,dog,0,0.8052631578947368
+007822,person,person,1,1.0
+008657,car,car,1,1.0
+001905,potted plant|tv,potted plant|sofa|tv,0,0.9
+000556,train,train,1,1.0
+006092,person,person,1,1.0
+009261,car,person,0,0.8052631578947368
+001005,car,car,1,1.0
+009416,potted plant,potted plant,1,1.0
+000801,car,car,1,1.0
+006266,dog|person,dog|person,1,1.0
+004981,car,car,1,1.0
+008016,aeroplane,aeroplane,1,1.0
+003540,cat,cat,1,1.0
+004996,car,car,1,1.0
+006639,bird,bird,1,1.0
+004101,person|sofa,bicycle|person|sofa,0,0.9
+008779,chair,chair,1,1.0
+006756,horse,cow,0,0.8052631578947368
+002316,bird,bird,1,1.0
+006598,person,person,1,1.0
+005581,cat,cat|dog,0,0.9
+002089,aeroplane,aeroplane,1,1.0
+006268,bird,bird,1,1.0
+005774,motorbike|person,bicycle|motorbike|person,0,0.9
+006669,person|train,person|train,1,1.0
+001564,person,dining table|person,0,0.9
+003315,bird,bird,1,1.0
+007492,chair|sofa,chair|sofa,1,1.0
+006615,person,person,1,1.0
+002997,tv,tv,1,1.0
+006340,car|person,car,0,0.9
+001227,boat|person,boat|person,1,1.0
+002656,bottle|person,person|potted plant,0,0.8052631578947368
+008271,car|person|potted plant,bicycle|person|potted plant,0,0.8052631578947368
+001193,bicycle,bicycle,1,1.0
+003958,cat,cat,1,1.0
